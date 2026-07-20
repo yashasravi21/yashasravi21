@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Linux, Git, GitHub, Docker, Kubernetes, Jenkins, AWS, CI/CD Pipelines, Monitoring & Logging**
 
-- 📫 How to reach me **yashas21official@gmail.com**
+- 📫 How to reach me **yashasravi2101@gmail.com**
 
 - ⚡ Fun fact **I enjoy automating repetitive tasks and building deployment pipelines that make software delivery faster and more reliable.**
 
