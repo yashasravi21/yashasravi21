@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **CI/CD Pipeline Automation for Containerized Application Deployment AWS EC2 • Jenkins • Docker • Amazon ECR • Maven • Shell Scripting**
 
-- 🌱 I’m currently learning **Kubernetes, Terraform, AWS Services, Prometheus, Loki, Promtail, and DevOps Best Practices**
+- 🌱 I’m currently learning **Kubernetes, Terraform, Azure, AWS Services, Prometheus, Loki, Promtail, and DevOps Best Practices**
 
-- 👯 I’m looking to collaborate on **Cloud Infrastructure, CI/CD Automation, Docker, Kubernetes, AWS, and Open Source DevOps Projects**
+- 👯 I’m looking to collaborate on **Cloud Infrastructure, CI/CD Automation, Docker, Kubernetes, Azure, AWS, and Open Source DevOps Projects**
 
 - 🤝 I’m looking for help with **Advanced Kubernetes Administration, Terraform, Infrastructure as Code (IaC), and Production-Grade DevOps Practices**
 
 - 📝 I regularly write articles on [Fresher DevOps Engineer with hands-on experience in: CI/CD Pipeline Automation AWS Cloud Infrastructure Docker & Kubernetes Monitoring with Prometheus & Loki Linux Administration & Shell Scripting](Fresher DevOps Engineer with hands-on experience in: CI/CD Pipeline Automation AWS Cloud Infrastructure Docker & Kubernetes Monitoring with Prometheus & Loki Linux Administration & Shell Scripting)
 
-- 💬 Ask me about **Linux, Git, GitHub, Docker, Kubernetes, Jenkins, AWS, CI/CD Pipelines, Monitoring & Logging**
+- 💬 Ask me about **Linux, Git, GitHub, Docker, Kubernetes, Jenkins, Azure, AWS, CI/CD Pipelines, Monitoring & Logging**
 
 - 📫 How to reach me **yashasravi2101@gmail.com**
 
