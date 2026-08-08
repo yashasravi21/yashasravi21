@@ -1,133 +1,242 @@
-<h1 align="center">Hi 👋, I'm Yashas R 🤩</h1>
-<h3 align="center">Passionate QA Engineer | DevOps Enthusiast 🚀 | India</h3>
+<h1 align="center">Hi 👋, I'm Yashas R</h1>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=yashasravi21&label=Profile%20views&color=0e75b6&style=flat" alt="yashasravi21" />
-</p>
+<h3 align="center">🚀 Aspiring DevOps Engineer | ☁️ Cloud | 🔄 CI/CD | 🐳 Containers | ☸️ Kubernetes</h3>
 
-- 🔭 I’m currently working on **Manual Testing, API Testing, CI/CD Automation, and Containerized Application Deployment using Jenkins, Docker, AWS EC2 & Amazon ECR**
-
-- 🌱 I’m currently learning **Selenium, Playwright, Kubernetes, Terraform, Azure, AWS Services, Prometheus, Grafana, Loki, and Production DevOps Practices**
-
-- 👯 I’m looking to collaborate on **QA Automation, API Testing, Cloud Infrastructure, CI/CD Pipelines, Docker, Kubernetes, AWS, Azure, and Open Source Projects**
-
-- 🤝 I’m looking for help with **Advanced Test Automation, Playwright, Selenium, Kubernetes Administration, Terraform, and Infrastructure as Code (IaC)**
-
-- 📝 I enjoy sharing knowledge and continuously improving my skills in **Software Testing, DevOps, Cloud Technologies, and CI/CD Automation**
-
-- 💬 Ask me about **Manual Testing, API Testing, Postman, Jira, PostgreSQL, Linux, Git, GitHub, Docker, Jenkins, Kubernetes, AWS, Azure, CI/CD Pipelines, Monitoring & Logging**
-
-- 📫 How to reach me **yashasravi2101@gmail.com**
-
-- ⚡ Fun fact **I enjoy finding bugs, automating repetitive tasks, and building reliable deployment pipelines that improve software quality and delivery.**
-
----
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/yashas-r" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashas r" height="30" width="40" />
-</a>
+<p align="center">
+  <a href="https://github.com/yashasravi21">
+    <img src="https://komarev.com/ghpvc/?username=yashasravi21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 👨‍💻 About Me
+
+* 🔭 I’m currently working on **CI/CD Automation and Containerized Application Deployment using Jenkins, Docker, AWS EC2 & Amazon ECR**
+* 🌱 I’m currently learning **Kubernetes, Terraform, Microsoft Azure, AWS Services, Prometheus, Grafana, Loki, and Production DevOps Practices**
+* 👯 I’m looking to collaborate on **DevOps, Cloud Infrastructure, CI/CD Pipelines, Docker, Kubernetes, AWS, Azure, Monitoring, and Open Source Projects**
+* 🤝 I’m looking to improve my skills in **Kubernetes Administration, Terraform, Infrastructure as Code (IaC), Cloud Architecture, and DevOps Automation**
+* 📝 I enjoy learning and sharing knowledge about **DevOps, Cloud Computing, Automation, Containerization, CI/CD, and Infrastructure**
+* 💬 Ask me about **Linux, Git, GitHub, Jenkins, Docker, Kubernetes, AWS, Azure, CI/CD, Shell Scripting, Monitoring & Logging**
+* 📫 Reach me at **[yashasravi2101@gmail.com](mailto:yashasravi2101@gmail.com)**
+* ⚡ Fun fact: **I enjoy automating repetitive tasks, building CI/CD pipelines, deploying applications, and exploring cloud technologies.**
+
+---
+
+# 🚀 DevOps Tech Stack
+
+## 🐧 Operating Systems & Scripting
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash" />
+</p>
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
+**Linux • Ubuntu • Shell Scripting • Bash**
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
+---
 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</a>
+## 🔄 Version Control & CI/CD
 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
-</a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,jenkins" />
+</p>
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-</a>
+**Git • GitHub • Jenkins • CI/CD Pipelines • Build Automation • Deployment Automation**
 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-</a>
+---
 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-</a>
+## 🐳 Containers & Orchestration
 
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</p>
 
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40" height="40"/>
-</a>
+**Docker • Docker Compose • Kubernetes • Pods • Deployments • Services • ConfigMaps • Secrets**
 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-</a>
+---
 
-<a href="https://grafana.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-</a>
+## ☁️ Cloud Platforms
 
-<a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40" height="40"/>
-</a>
+### 🟠 Amazon Web Services
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
 
+**AWS EC2 • S3 • ECR • IAM • VPC • CloudWatch • RDS • Lambda**
+
+### 🔵 Microsoft Azure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure" />
+</p>
+
+**Azure Virtual Machines • Azure Storage • Azure Container Registry • Azure Kubernetes Service • Azure IAM • Azure Monitor**
+
+---
+
+## 🏗️ Infrastructure as Code
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=terraform,ansible" />
+</p>
+
+**Terraform • Infrastructure as Code (IaC) • Configuration Management • Infrastructure Automation**
+
+---
+
+## 📊 Monitoring & Logging
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+**Prometheus • Grafana • Loki • Promtail • Node Exporter • Metrics • Logs • Alerting • Observability**
+
+---
+
+## ☕ Build & Application Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,maven,python" />
+</p>
+
+**Java • Maven • Python • Application Build & Deployment**
+
+---
+
+# 🛠️ Core DevOps Skills
+
+| Category           | Technologies                             |
+| ------------------ | ---------------------------------------- |
+| 🐧 OS              | Linux, Ubuntu                            |
+| 🔧 Version Control | Git, GitHub                              |
+| 🔄 CI/CD           | Jenkins, CI/CD Pipelines                 |
+| 🐳 Containers      | Docker, Docker Compose                   |
+| ☸️ Orchestration   | Kubernetes                               |
+| ☁️ Cloud           | AWS, Microsoft Azure                     |
+| 🏗️ IaC            | Terraform                                |
+| 📜 Scripting       | Bash, Shell Scripting, Python            |
+| 📦 Build Tools     | Maven                                    |
+| 📊 Monitoring      | Prometheus, Grafana                      |
+| 📝 Logging         | Loki, Promtail                           |
+| 🔍 Observability   | Metrics, Logs, Alerting                  |
+| 🌐 Networking      | HTTP/HTTPS, DNS, TCP/IP, Load Balancing  |
+| 🔐 Cloud Security  | IAM, Security Groups, Secrets Management |
+
+---
+
+# 🚀 Featured DevOps Projects
+
+### 🔄 CI/CD Pipeline Automation
+
+**AWS EC2 • Jenkins • Maven • Docker • Amazon ECR • Shell Scripting**
+
+* ⚙️ Automated application build and deployment using Jenkins.
+* 🐳 Built Docker images and pushed them to Amazon ECR.
+* ☁️ Used AWS EC2 to host the CI/CD environment.
+* 🔄 Implemented automated source-code checkout, build, containerization, and deployment workflows.
+
+---
+
+### 📊 Infrastructure Monitoring & Centralized Logging
+
+**Prometheus • Node Exporter • Grafana • Loki • Promtail • Linux**
+
+* 📈 Monitored CPU, memory, disk, and network metrics using Prometheus.
+* 📊 Created Grafana dashboards for infrastructure visibility.
+* 📝 Implemented centralized logging using Loki and Promtail.
+* 🚨 Configured monitoring and alerting for proactive issue detection.
+
+---
+
+### ☸️ Containerized Application Deployment
+
+**Docker • Kubernetes • Jenkins • AWS**
+
+* 🐳 Containerized applications using Docker.
+* ☸️ Deployed containerized workloads on Kubernetes.
+* 🔄 Automated deployment workflows using Jenkins.
+* ☁️ Integrated AWS services into the deployment architecture.
+
+---
+
+# 📚 Currently Learning
+
+```text
+☸️ Kubernetes Administration
+🏗️ Terraform & Infrastructure as Code
+☁️ Microsoft Azure
+☁️ Advanced AWS Services
+📊 Prometheus & Grafana
+📝 Loki & Centralized Logging
+🔐 DevSecOps
+🚀 Production DevOps Practices
+```
+
+---
+
+# 🎯 My DevOps Roadmap
+
+```text
+Linux
+   ↓
+Git & GitHub
+   ↓
+Shell Scripting
+   ↓
+Jenkins & CI/CD
+   ↓
+Docker
+   ↓
+Kubernetes
+   ↓
+AWS ☁️ + Azure ☁️
+   ↓
+Terraform / IaC
+   ↓
+Prometheus + Grafana
+   ↓
+Loki + Centralized Logging
+   ↓
+DevSecOps
+   ↓
+Production DevOps 🚀
+```
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashasravi21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashasravi21&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasravi21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🚀 Core Skills
+# 🤝 Let's Connect
 
-### ✅ Quality Assurance
-- Manual Testing
-- Functional Testing
-- Regression Testing
-- UI Testing
-- API Testing
-- Mobile Testing (Android & iOS)
-- Test Case Design & Execution
-- Defect Tracking
-- Agile/Scrum
+<p align="center">
+  <a href="https://github.com/yashasravi21">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:yashasravi2101@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-### 🛠 QA Tools
-- Postman
-- Jira
-- Charles Proxy
-- Proxyman
-- PostgreSQL
+<p align="center">
 
-### ☁ DevOps & Cloud
-- Linux
-- Git & GitHub
-- Jenkins
-- Docker
-- Kubernetes
-- AWS (EC2, S3, ECR)
-- CI/CD Pipelines
-- Shell Scripting
+### 🚀 Learn • Automate • Deploy • Monitor • Scale
 
-### 📚 Currently Learning
-- Selenium
-- Playwright
-- Terraform
-- Azure
-- Prometheus
-- Grafana
-- Loki
+**Building my journey toward becoming a Production-ready DevOps Engineer.**
+
+</p>
