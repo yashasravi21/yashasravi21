@@ -134,18 +134,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3C00,100:C1121F&height=3&section=header" />
 
-<h2>📈 &nbsp;GitHub Activity</h2>
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yashasravi21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3C00&icon_color=FF9243&text_color=C9D1D9&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasravi21&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3C00&text_color=C9D1D9&langs_count=8" />
-<br/><br/>
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashasravi21&bg_color=0D1117&color=FF3C00&line=FF9243&point=FFFFFF&area=true&hide_border=true" />
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=yashasravi21&theme=monokai&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C1121F,100:FF3C00&height=3&section=header" />
 
 <h2>🤝 &nbsp;Let's Connect</h2>
 
