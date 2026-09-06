@@ -1,40 +1,42 @@
 <!-- ══════════════════ HEADER BANNER ══════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00C6FF&height=200&section=header&text=Yashas%20R&fontSize=62&fontColor=FFFFFF&fontAlignY=34&desc=DevOps%20%C2%B7%20Cloud%20%C2%B7%20CI/CD%20%C2%B7%20Containers%20%C2%B7%20Kubernetes&descSize=18&descAlignY=54&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0000,50:8B1A0A,100:FF3C00&height=200&section=header&text=Yashas%20R&fontSize=62&fontColor=FFFFFF&fontAlignY=34&desc=DevOps%20%C2%B7%20Cloud%20%C2%B7%20CI/CD%20%C2%B7%20Containers%20%C2%B7%20Kubernetes&descSize=18&descAlignY=54&animation=fadeIn" />
 <!-- ══════════════════ TYPING EFFECT ══════════════════ -->
 <div align="center">
-<a href="https://github.com/yashasravi21">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=650&lines=Aspiring+DevOps+Engineer;I+build+CI%2FCD+pipelines+with+Jenkins+%2B+Docker;I+deploy+containers+on+AWS+and+Kubernetes;I+monitor+everything+with+Prometheus+%2B+Grafana;Learn+%E2%80%A2+Automate+%E2%80%A2+Deploy+%E2%80%A2+Monitor+%E2%80%A2+Scale" alt="What I do" />
+<a href="https://www.linkedin.com/in/yashas-r-66336a3b5/">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=FF3C00&center=true&vCenter=true&width=680&lines=Aspiring+DevOps+Engineer;I+build+CI%2FCD+pipelines+with+Jenkins+%2B+Docker;I+deploy+containers+on+AWS+and+Kubernetes;I+monitor+everything+with+Prometheus+%2B+Grafana;Learn+%E2%80%A2+Automate+%E2%80%A2+Deploy+%E2%80%A2+Monitor+%E2%80%A2+Scale" alt="What I do" />
 </a>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=yashasravi21&label=Profile%20Views&color=00C6FF&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/badge/Based%20in-Bengaluru,%20India-0F2027?style=for-the-badge&logo=googlemaps&logoColor=00C6FF" alt="Location" />
-<img src="https://img.shields.io/badge/Open%20to-DevOps%20%26%20Cloud%20Roles-00C6FF?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to work" />
+<a href="https://www.linkedin.com/in/yashas-r-66336a3b5/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:yashasravi2101@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-FF3C00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=yashasravi21&label=Profile%20Views&color=FF3C00&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/Based%20in-Bengaluru,%20India-1A0000?style=for-the-badge&logo=googlemaps&logoColor=FF3C00" alt="Location" />
+<img src="https://img.shields.io/badge/Open%20to-DevOps%20%26%20Cloud%20Roles-C1121F?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to work" />
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:7B61FF&height=3&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3C00,100:C1121F&height=3&section=header" />
 <!-- ══════════════════ ABOUT ══════════════════ -->
 👨‍💻  About Me
-<img align="right" width="290" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="DevOps animation" />
 ```yaml
 name: Yashas R
 role: Aspiring DevOps Engineer
 location: Bengaluru, India
-currently_building: CI/CD automation + containerised
-                    deployment on Jenkins, Docker,
-                    AWS EC2 and Amazon ECR
-currently_learning: [ Kubernetes, Terraform, Azure,
-                      Prometheus, Grafana, Loki ]
-ask_me_about: [ Linux, Git, Jenkins, Docker,
-                Kubernetes, AWS, Shell Scripting ]
-contact: yashasravi2101@gmail.com
-fun_fact: "If I have to do it twice, I script it."
+currently_building: CI/CD automation + containerised deployment
+                    on Jenkins, Docker, AWS EC2 and Amazon ECR
+currently_learning: [ Kubernetes, Terraform, Azure, Prometheus, Grafana, Loki ]
+ask_me_about:       [ Linux, Git, Jenkins, Docker, Kubernetes, AWS, Shell Scripting ]
+contact:            yashasravi2101@gmail.com
+fun_fact:           "If I have to do it twice, I script it."
 ```
 🔭  Working on CI/CD automation and containerised application deployment with Jenkins, Docker, AWS EC2 and Amazon ECR
 🌱  Learning Kubernetes, Terraform, Microsoft Azure, Prometheus, Grafana, Loki and production DevOps practices
 👯  Open to collaborating on cloud infrastructure, CI/CD pipelines and open-source DevOps projects
 💬  Ask me about Linux, Git, Jenkins, Docker, Kubernetes, AWS, Azure, shell scripting, monitoring and logging
-📫  Reach me at yashasravi2101@gmail.com
-<br clear="right"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7B61FF,100:00C6FF&height=3&section=header" />
+📫  Reach me at yashasravi2101@gmail.com or on LinkedIn
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C1121F,100:FF3C00&height=3&section=header" />
 <!-- ══════════════════ TECH STACK ══════════════════ -->
 🚀  My DevOps Toolbox
 <div align="center">
@@ -77,7 +79,7 @@ fun_fact: "If I have to do it twice, I script it."
 </tr>
 </table>
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:7B61FF&height=3&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3C00,100:C1121F&height=3&section=header" />
 <!-- ══════════════════ PROJECTS ══════════════════ -->
 🛠️  Featured Projects
 <details open>
@@ -94,7 +96,7 @@ fun_fact: "If I have to do it twice, I script it."
 🐳  Built Docker images on every commit and pushed them to Amazon ECR
 ☁️  Hosted the whole CI/CD environment on AWS EC2
 🔁  Wired up checkout → build → containerise → deploy end to end
-<!-- 👉 Add the repo link here once it is public:
+<!-- Add the repo link here once it is public:
 </details>
 <details>
 <summary><b>📊 &nbsp;Infrastructure Monitoring &amp; Centralized Logging</b> &nbsp;— <i>metrics, logs and alerts in one place</i></summary>
@@ -124,7 +126,7 @@ fun_fact: "If I have to do it twice, I script it."
 🔄  Triggered rollouts automatically from Jenkins
 ☁️  Integrated AWS services into the deployment architecture
 </details>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7B61FF,100:00C6FF&height=3&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C1121F,100:FF3C00&height=3&section=header" />
 <!-- ══════════════════ ROADMAP ══════════════════ -->
 🎯  My DevOps Roadmap
 ```mermaid
@@ -140,8 +142,8 @@ flowchart LR
     I --> J["🔐 DevSecOps"]
     J --> K["🚀 Production DevOps"]
 
-    classDef done fill:#00C6FF,stroke:#0072FF,stroke-width:2px,color:#04121F
-    classDef learning fill:#7B61FF,stroke:#5B3FD6,stroke-width:2px,color:#FFFFFF
+    classDef done fill:#FF3C00,stroke:#C1121F,stroke-width:2px,color:#1A0000
+    classDef learning fill:#FF9243,stroke:#C1121F,stroke-width:2px,color:#2A0A00
     classDef next fill:#161B22,stroke:#30363D,stroke-width:2px,color:#8B949E
 
     class A,B,C,D done
@@ -149,30 +151,28 @@ flowchart LR
     class I,J,K next
 ```
 <div align="center">
-`🟦 Comfortable`    `🟪 Learning right now`    `⬛ Up next`
+`🟥 Comfortable`    `🟧 Learning right now`    `⬛ Up next`
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:7B61FF&height=3&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3C00,100:C1121F&height=3&section=header" />
 <!-- ══════════════════ STATS ══════════════════ -->
 📈  GitHub Activity
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yashasravi21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=7B61FF&text_color=C9D1D9&include_all_commits=true" />
-<img height="170" src="https://streak-stats.demolab.com?user=yashasravi21&hide_border=true&background=0D1117&stroke=30363D&ring=00C6FF&fire=7B61FF&currStreakLabel=00C6FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-<br/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasravi21&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=C9D1D9&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yashasravi21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3C00&icon_color=FF9243&text_color=C9D1D9&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasravi21&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3C00&text_color=C9D1D9&langs_count=8" />
 <br/><br/>
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashasravi21&bg_color=0D1117&color=00C6FF&line=7B61FF&point=FFFFFF&area=true&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashasravi21&bg_color=0D1117&color=FF3C00&line=FF9243&point=FFFFFF&area=true&hide_border=true" />
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=yashasravi21&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=yashasravi21&theme=monokai&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7B61FF,100:00C6FF&height=3&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C1121F,100:FF3C00&height=3&section=header" />
 <!-- ══════════════════ CONNECT ══════════════════ -->
 🤝  Let's Connect
 <div align="center">
-<a href="https://www.linkedin.com/in/yashas-r-637870433">
+<a href="https://www.linkedin.com/in/yashas-r-66336a3b5/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:yashasravi2101@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-FF3C00?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/yashasravi21">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -181,4 +181,4 @@ flowchart LR
 Learn  •  Automate  •  Deploy  •  Monitor  •  Scale
 Building my way toward becoming a production-ready DevOps engineer.
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:203A43,100:0F2027&height=150&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=26&fontColor=FFFFFF&fontAlignY=68" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3C00,50:8B1A0A,100:1A0000&height=150&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=26&fontColor=FFFFFF&fontAlignY=68" />
